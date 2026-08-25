@@ -1,6 +1,9 @@
 numpy
 pandas
+scipy
 scikit-learn
+keras
+tensorflow
 matplotlib
 seaborn
 jupyter
