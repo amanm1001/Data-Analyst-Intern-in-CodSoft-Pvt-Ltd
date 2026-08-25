@@ -1,4 +1,10 @@
-In this virtual Internship I worked on three projects which are as follows
+### This is a one month virtual Internship. In this internship, I worked on two projects which are as follows
 1. Iris Flower Classification
 2. House Price Prediction
-3. 
+
+Tech Stack I used in above projects:
+numpy and pandas --> EDA
+Matplotlib --> data visualization 
+seaborn --> statistical visualization
+Sckit-learn --> Machine Learning
+keras and tensorflow --> Deep learning
