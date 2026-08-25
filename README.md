@@ -2,9 +2,9 @@
 1. Iris Flower Classification
 2. House Price Prediction
 
-Tech Stack I used in above projects: \n
-numpy and pandas --> EDA
-Matplotlib --> data visualization 
-seaborn --> statistical visualization
-Sckit-learn --> Machine Learning
+Tech Stack I used in above projects: <br/>
+numpy and pandas --> EDA <br>
+Matplotlib --> data visualization <br>
+seaborn --> statistical visualization <br>
+Sckit-learn --> Machine Learning<br>
 keras and tensorflow --> Deep learning
